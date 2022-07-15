@@ -14,6 +14,8 @@ The Web3 course will cover deployment to both Polygon and Ethereum mainnet. Plea
 
 https://www.bloomtech.com/courses/web3#
 
+[list of required software](https://docs.google.com/document/d/1LBUBPVqxdpN8rOYMnn9rs-bcrOOC6RIdAJIqgrcsob8/preview)
+
 ##  SPRINT 01 - Introduction to Ethereum and Smart Contracts
 What is a blockchain and why is it useful? Node software, wallets, contracts, and transactions
 
@@ -43,3 +45,4 @@ Stablecoins, DEX's, liquidity providers, staking, lending, price oracles
 
 ##  SPRINT 10 - Hacking Smart Contracts: Devastating Vulnerabilities and Gas Optimization
 Reentrancy, front-running, oracle manipulation, gas optimizations
+
