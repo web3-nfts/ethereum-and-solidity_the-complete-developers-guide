@@ -1,4 +1,4 @@
-# Bloom tech web3
+# Web3
 
 - [Web3 Explainer: Expert Insights](https://www.youtube.com/watch?v=iq5LzePeJ5A)
   - Ethereum
