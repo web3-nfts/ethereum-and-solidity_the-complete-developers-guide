@@ -16,6 +16,12 @@ https://www.bloomtech.com/courses/web3#
 
 [list of required software](https://docs.google.com/document/d/1LBUBPVqxdpN8rOYMnn9rs-bcrOOC6RIdAJIqgrcsob8/preview)
 
+- Pre-Course Work
+  - [The Complete NFT Course - Learn Everything About NFTs](https://www.udemy.com/course/the-complete-nft-course-learn-everything-about-nfts/)
+  - [Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+  - [Ethereum Blockchain Developer Bootcamp With Solidity (2022)](https://www.udemy.com/course/blockchain-developer/)
+  - [The Complete NFT Web Development Course - Zero To Expert](https://www.udemy.com/course/the-complete-nft-web-developer-course-zero-to-professional/)
+
 ##  SPRINT 01 - Introduction to Ethereum and Smart Contracts
 What is a blockchain and why is it useful? Node software, wallets, contracts, and transactions
 
