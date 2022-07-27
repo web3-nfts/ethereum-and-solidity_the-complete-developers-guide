@@ -50,7 +50,7 @@ Solidity is a programming language for writing Smart Contracts.  Essentially, th
   1.  Receiving Ether
   1.  [What's a Transaction?](./contents/12_What's-a-Transaction%3F.md)
   1.  Why'd We Wait?
-  1.  A Quick Note About the Next Lecture
+  1.  [A Quick Note About the Next Lecture](./contents/14_A-Quick-Note-About-the-Next-Lecture.md)
   1.  Basic Blockchains
   1.  Block Time
   1.  Smart Contracts
