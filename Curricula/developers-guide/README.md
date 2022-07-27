@@ -55,7 +55,7 @@ Solidity is a programming language for writing Smart Contracts.  Essentially, th
   1.  Block Time
   1.  Smart Contracts
   1.  The Solidity Programming Language
-  1.  Updated Remix Instructions for new UI - Do Not Skip
+  1.  [Updated Remix Instructions for new UI - Do Not Skip](./contents/19_Updated-Remix-Instructions-for-new-UI-Do_Not_Skip.md)
   1.  Our First Contract
   1.  Contract Structure
   1.  Function Declarations
