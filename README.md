@@ -18,3 +18,15 @@ Apply to be among the first developers to learn Web3 at BloomTech! The course go
 ## links
 - [Web3 Explainer: Expert Insights](https://www.youtube.com/watch?v=iq5LzePeJ5A)
 
+  1.  Introduction
+  2.  Course Resources 
+  3.  A Short History Lesson
+  4.  Link to Original Bitcoin White Paper
+  5.  What is Ethereum?
+  6.  Interfacing with Ethereum Networks 
+  7.  Updated Metamask Setup for new UI
+  8.  Metamask Setup  
+  9.  Ethereum Accounts
+  10. A Note About the Faucet
+
+
