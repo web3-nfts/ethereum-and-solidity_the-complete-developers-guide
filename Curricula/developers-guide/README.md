@@ -79,7 +79,7 @@ Solidity is a programming language for writing Smart Contracts.  Essentially, th
   1.  Completed Boilerplate
   1.  Project Requirements
   1.  Project File Walkthrough
-  1.  Syntax Highlighters
+  1.  [Syntax Highlighters](contents/38_Syntax-Highlighters.md)
   1.  Compiling Solidity
   1.  Invalid asm.js or Constructor Deprecation Warning
   1.  The Compile Script
