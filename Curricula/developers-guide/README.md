@@ -114,9 +114,9 @@ Solidity is a programming language for writing Smart Contracts.  Essentially, th
   65. The Lottery Contract
   1.  Lottery Design
   1.  Reminder on Updated Remix
-  1.  [Basic Solidity Types](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/learn/lecture/9020506#learning-tools)
-  1.  [Starting the Lottery Contract](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/learn/lecture/9020508#learning-tools)
-  1.  [The Message Global Variable](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/learn/lecture/9020510#learning-tools)
+  1.  [Basic Solidity Types](.)
+  1.  [Starting the Lottery Contract](.)
+  1.  [The Message Global Variable](.)
   1.  Overview of Arrays
   1.  Overview of Mappings and Structs
   1.  Big Solidity Gotcha
