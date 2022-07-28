@@ -38,28 +38,28 @@ Solidity is a programming language for writing Smart Contracts.  Essentially, th
   <summary>Section 1: What is Ethereum?</summary>
 
   1.  Introduction
-  1.  Course Resources 
+  1.  [Course Resources](contents/2_Course-Resources.md) 
   1.  A Short History Lesson
-  1.  Link to Original Bitcoin White Paper
+  1.  [Link to Original Bitcoin White Paper](contents/4_Link-to-Original-Bitcoin-White-Paper.md)
   1.  What is Ethereum?
   1.  Interfacing with Ethereum Networks 
-  1.  Updated Metamask Setup for new UI
+  1.  [Updated Metamask Setup for new UI](contents/7_Updated-Metamask-Setup-for-new-UI.md)
   1.  Metamask Setup  
   1.  Ethereum Accounts
-  1.  A Note About the Faucet
+  1.  [A Note About the Faucet](contents/10_A-Note-About-the-Faucet.md)
   1.  Receiving Ether
-  1.  [What's a Transaction?](./contents/12_What's-a-Transaction%3F.md)
+  1.  [What's a Transaction?](contents/12_What's-a-Transaction%3F.md)
   1.  Why'd We Wait?
-  1.  [A Quick Note About the Next Lecture](./contents/14_A-Quick-Note-About-the-Next-Lecture.md)
+  1.  [A Quick Note About the Next Lecture](contents/14_A-Quick-Note-About-the-Next-Lecture.md)
   1.  Basic Blockchains
   1.  Block Time
   1.  Smart Contracts
   1.  The Solidity Programming Language
-  1.  [Updated Remix Instructions for new UI - Do Not Skip](./contents/19_Updated-Remix-Instructions-for-new-UI-Do_Not_Skip.md)
+  1.  [Updated Remix Instructions for new UI - Do Not Skip](contents/19_Updated-Remix-Instructions-for-new-UI-Do_Not_Skip.md)
   1.  Our First Contract
   1.  Contract Structure
   1.  Function Declarations
-  1.  Deploying Contract in New Remix UI
+  1.  [Deploying Contract in New Remix UI](contents/23_Deploying-Contract-in-New-Remix-UI.md)
   1.  Testing with Remix
   1.  Redeploying Contracts
   1.  Behind the Scenes of Deployment
@@ -68,20 +68,20 @@ Solidity is a programming language for writing Smart Contracts.  Essentially, th
   1.  Gas and Transactions
   1.  Mnemonic Phrases
   1.  We Need More Test Ether!
-  1.  Obtaining More Test Ether from Recommended Faucet [REQUIRED]
+  1.  [Obtaining More Test Ether from Recommended Faucet](./contents/32_Obtaining-More-Test-Ether-from-Recommended-Faucet-%5BREQUIRED%5D.md)
 </details>
 
 <details>
   <summary>Section 2: Smart Contracts with Solidity</summary>
 
-  33.  Installing Node.js, npm and Git
+  33.  [Installing Node.js, npm and Git](contents/33_Installing-Nodejs-npm-and-Git.md)
   1.  Contract Deployment
-  1.  Completed Boilerplate
+  1.  [Completed Boilerplate](contents/35_Completed-Boilerplate.md)
   1.  Project Requirements
   1.  Project File Walkthrough
   1.  [Syntax Highlighters](contents/38_Syntax-Highlighters.md)
   1.  Compiling Solidity
-  1.  Invalid asm.js or Constructor Deprecation Warning
+  1.  [Invalid asm.js or Constructor Deprecation Warning](contents/40_Invalid-asmjs-or-Constructor-Deprecation-Warning.md)
   1.  The Compile Script
   1.  Testing Architecture
   1.  Installing Modules

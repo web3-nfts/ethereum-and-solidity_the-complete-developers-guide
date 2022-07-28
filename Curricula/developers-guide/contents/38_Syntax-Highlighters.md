@@ -9,3 +9,5 @@ Links to syntax highlighters are below.  Remember that syntax highlighting for S
 -   VIM - https://github.com/tomlion/vim-solidity
 
 - [38. Syntax Highlighters](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/learn/lecture/9032998#questions)
+
+-   [38-compiling.zip](https://github.com/web3-nfts/bt-web3/blob/main/Curricula/developers-guide/Resources/38-compiling.zip)
