@@ -88,7 +88,7 @@ Solidity is a programming language for writing Smart Contracts.  Essentially, th
   1.  [Web3 Versioning](contents/44_Web3-Versioning.md)
   1.  [Web3 Providers](contents/45_Web3-Providers.md)
   1.  [Testing with Mocha](contents/46_Testing-with-Mocha.md)
-  1.  Mocha Structure
+  1.  [Mocha Structure](contents/47_Mocha-Structure.md)
   1.  Fetching Accounts from Ganache
   1.  Refactor to Async/Await
   1.  Deployment with Web3
