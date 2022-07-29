@@ -8,4 +8,7 @@
 
 ##  Mis
   - [Top 15 Best Ethereum Developer Courses](https://coursepick.com/ethereum-developer/)
-  - [Ethereum and Solidity: The Complete Developer's Guide](https://documentation.peelmicro.info/other/blockchain-ethereum-kickstart.html)
+  - [peelmicro - Ethereum and Solidity: The Complete Developer's Guide](https://documentation.peelmicro.info/other/blockchain-ethereum-kickstart.html)
+
+##  Some Links
+- [list of required software](https://docs.google.com/document/d/1LBUBPVqxdpN8rOYMnn9rs-bcrOOC6RIdAJIqgrcsob8/preview)

@@ -17,4 +17,4 @@ Apply to be among the first developers to learn Web3 at BloomTech! The course go
 
 ## links
 - [Web3 Explainer: Expert Insights](https://www.youtube.com/watch?v=iq5LzePeJ5A)
-
+- [list of required software](https://docs.google.com/document/d/1LBUBPVqxdpN8rOYMnn9rs-bcrOOC6RIdAJIqgrcsob8/preview)
