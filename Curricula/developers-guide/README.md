@@ -44,7 +44,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Deploying Contract in New Remix UI](contents/23_Deploying-Contract-in-New-Remix-UI.md)
   1.  [Testing with Remix](contents/24_Testing-with-Remix.md)
   1.  Redeploying Contracts
-  1.  Behind the Scenes of Deployment
+  1.  [Behind the Scenes of Deployment](./contents/26_Behind-the-Scenes-of-Deployment.md)
   1.  More on Running Functions Than You Want to Know
   1.  Wei vs Ether
   1.  Gas and Transactions
