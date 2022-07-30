@@ -47,7 +47,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Behind the Scenes of Deployment](./contents/26_Behind-the-Scenes-of-Deployment.md)
   1.  [More on Running Functions Than You Want to Know](contents/27_More-on-Running-Functions-Than-You-Want-to-Know.md)
   1.  [Wei vs Ether](contents/28_Wei-vs-Ether.md)
-  1.  Gas and Transactions
+  1.  [Gas and Transactions](contents/29_Gas-and-Transactions.md)
   1.  Mnemonic Phrases
   1.  We Need More Test Ether!
   1.  [Obtaining More Test Ether from Recommended Faucet](./contents/32_Obtaining-More-Test-Ether-from-Recommended-Faucet-%5BREQUIRED%5D.md)
