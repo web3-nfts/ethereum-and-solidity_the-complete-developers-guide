@@ -24,7 +24,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [A Short History Lesson](contents/3_A-Short-History-Lesson.md)
   1.  [Link to Original Bitcoin White Paper](contents/4_Link-to-Original-Bitcoin-White-Paper.md)
   1.  [What is Ethereum?](contents/5_What-is-Ethereum%3F.md)
-  1.  Interfacing with Ethereum Networks 
+  1.  [Interfacing with Ethereum Networks](contents/6_Interfacing-with-Ethereum-Networks.md) 
   1.  [Updated Metamask Setup for new UI](contents/7_Updated-Metamask-Setup-for-new-UI.md)
   1.  Metamask Setup  
   1.  Ethereum Accounts
