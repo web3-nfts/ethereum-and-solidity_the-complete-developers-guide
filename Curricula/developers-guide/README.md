@@ -33,7 +33,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [What's a Transaction?](contents/12_What's-a-Transaction%3F.md)
   1.  [Why'd We Wait?](./contents/13_Why'd-We-Wait%3F.md)
   1.  [A Quick Note About the Next Lecture](contents/14_A-Quick-Note-About-the-Next-Lecture.md)
-  1.  Basic Blockchains
+  1.  [Basic Blockchains](./contents/15_Basic-Blockchains.md)
   1.  Block Time
   1.  Smart Contracts
   1.  The Solidity Programming Language
