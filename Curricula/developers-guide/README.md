@@ -26,14 +26,14 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [What is Ethereum?](contents/5_What-is-Ethereum%3F.md)
   1.  [Interfacing with Ethereum Networks](contents/6_Interfacing-with-Ethereum-Networks.md) 
   1.  [Updated Metamask Setup for new UI](contents/7_Updated-Metamask-Setup-for-new-UI.md)
-  1.  [Metamask Setup](./contents/8_Metamask-Setup.md)  
+  1.  [Metamask Setup](contents/8_Metamask-Setup.md)  
   1.  [Ethereum Accounts](contents/9_Ethereum-Accounts.md)
   1.  [A Note About the Faucet](contents/10_A-Note-About-the-Faucet.md)
   1.  [Receiving Ether](contents/11_Receiving-Ether.md)
   1.  [What's a Transaction?](contents/12_What's-a-Transaction%3F.md)
-  1.  [Why'd We Wait?](./contents/13_Why'd-We-Wait%3F.md)
+  1.  [Why'd We Wait?](contents/13_Why'd-We-Wait%3F.md)
   1.  [A Quick Note About the Next Lecture](contents/14_A-Quick-Note-About-the-Next-Lecture.md)
-  1.  [Basic Blockchains](./contents/15_Basic-Blockchains.md)
+  1.  [Basic Blockchains](contents/15_Basic-Blockchains.md)
   1.  [Block Time](contents/16_Block-Time.md)
   1.  [Smart Contracts](contents/17_Smart-Contracts.md)
   1.  [The Solidity Programming Language](contents/18_The-Solidity-Programming-Language.md)
@@ -44,13 +44,13 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Deploying Contract in New Remix UI](contents/23_Deploying-Contract-in-New-Remix-UI.md)
   1.  [Testing with Remix](contents/24_Testing-with-Remix.md)
   1.  Redeploying Contracts
-  1.  [Behind the Scenes of Deployment](./contents/26_Behind-the-Scenes-of-Deployment.md)
+  1.  [Behind the Scenes of Deployment](contents/26_Behind-the-Scenes-of-Deployment.md)
   1.  [More on Running Functions Than You Want to Know](contents/27_More-on-Running-Functions-Than-You-Want-to-Know.md)
   1.  [Wei vs Ether](contents/28_Wei-vs-Ether.md)
   1.  [Gas and Transactions](contents/29_Gas-and-Transactions.md)
   1.  [Mnemonic Phrases](contents/30_Mnemonic-Phrases.md)
-  1.  We Need More Test Ether!
-  1.  [Obtaining More Test Ether from Recommended Faucet](./contents/32_Obtaining-More-Test-Ether-from-Recommended-Faucet-%5BREQUIRED%5D.md)
+  1.  [We Need More Test Ether!](contents/31_We-Need-More-Test-Ether!.md)
+  1.  [Obtaining More Test Ether from Recommended Faucet](contents/32_Obtaining-More-Test-Ether-from-Recommended-Faucet-%5BREQUIRED%5D.md)
 </details>
 
 <details>

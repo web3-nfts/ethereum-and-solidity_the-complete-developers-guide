@@ -12,3 +12,18 @@
 
 ##  Some Links
 - [list of required software](https://docs.google.com/document/d/1LBUBPVqxdpN8rOYMnn9rs-bcrOOC6RIdAJIqgrcsob8/preview)
+
+
+## We Need More Test Ether!
+
+###  Ropsten testnet faucet
+
+-   [https://faucet.egorfine.com/](https://faucet.egorfine.com/)
+
+###  RINKEBY FAUCET
+
+-   [https://rinkebyfaucet.com/](https://rinkebyfaucet.com/)
+
+###  Request testnet LINK
+
+-   [https://faucets.chain.link/rinkeby](https://faucets.chain.link/rinkeby)
