@@ -59,8 +59,8 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   33.  [Installing Node.js, npm and Git](contents/33_Installing-Nodejs-npm-and-Git.md)
   1.  [Contract Deployment](contents/34_Contract-Deployment.md)
   1.  [Completed Boilerplate](contents/35_Completed-Boilerplate.md)
-  1.  Project Requirements
-  1.  Project File Walkthrough
+  1.  [Project Requirements](contents/36_Project-Requirements.md)
+  1.  [Project File Walkthrough](contents/37_Project-File-Walkthrough.md)
   1.  [Syntax Highlighters](contents/38_Syntax-Highlighters.md)
   1.  Compiling Solidity
   1.  [Invalid asm.js or Constructor Deprecation Warning](contents/40_Invalid-asmjs-or-Constructor-Deprecation-Warning.md)
