@@ -26,7 +26,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [What is Ethereum?](contents/5_What-is-Ethereum%3F.md)
   1.  [Interfacing with Ethereum Networks](contents/6_Interfacing-with-Ethereum-Networks.md) 
   1.  [Updated Metamask Setup for new UI](contents/7_Updated-Metamask-Setup-for-new-UI.md)
-  1.  Metamask Setup  
+  1.  [Metamask Setup](./contents/8_Metamask-Setup.md)  
   1.  Ethereum Accounts
   1.  [A Note About the Faucet](contents/10_A-Note-About-the-Faucet.md)
   1.  Receiving Ether
