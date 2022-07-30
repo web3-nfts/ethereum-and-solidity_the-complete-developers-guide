@@ -39,7 +39,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [The Solidity Programming Language](contents/18_The-Solidity-Programming-Language.md)
   1.  [Updated Remix Instructions for new UI - Do Not Skip](contents/19_Updated-Remix-Instructions-for-new-UI-Do_Not_Skip.md)
   1.  [Our First Contract](contents/20_Our-First-Contract.md)
-  1.  Contract Structure
+  1.  [Contract Structure](contents/21_Contract-Structure.md)
   1.  Function Declarations
   1.  [Deploying Contract in New Remix UI](contents/23_Deploying-Contract-in-New-Remix-UI.md)
   1.  Testing with Remix
