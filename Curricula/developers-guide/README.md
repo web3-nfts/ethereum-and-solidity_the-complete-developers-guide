@@ -19,7 +19,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
 <details>
   <summary>Section 1: What is Ethereum?</summary>
 
-  1.  Introduction
+  1.  [Introduction](contents/1_Introduction.md)
   1.  [Course Resources](contents/2_Course-Resources.md) 
   1.  A Short History Lesson
   1.  [Link to Original Bitcoin White Paper](contents/4_Link-to-Original-Bitcoin-White-Paper.md)
