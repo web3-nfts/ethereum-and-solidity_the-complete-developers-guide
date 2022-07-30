@@ -36,7 +36,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Basic Blockchains](./contents/15_Basic-Blockchains.md)
   1.  [Block Time](contents/16_Block-Time.md)
   1.  [Smart Contracts](contents/17_Smart-Contracts.md)
-  1.  The Solidity Programming Language
+  1.  [The Solidity Programming Language](contents/18_The-Solidity-Programming-Language.md)
   1.  [Updated Remix Instructions for new UI - Do Not Skip](contents/19_Updated-Remix-Instructions-for-new-UI-Do_Not_Skip.md)
   1.  Our First Contract
   1.  Contract Structure
