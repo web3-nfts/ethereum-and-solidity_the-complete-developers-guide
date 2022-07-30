@@ -57,7 +57,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   <summary>Section 2: Smart Contracts with Solidity</summary>
 
   33.  [Installing Node.js, npm and Git](contents/33_Installing-Nodejs-npm-and-Git.md)
-  1.  Contract Deployment
+  1.  [Contract Deployment](contents/34_Contract-Deployment.md)
   1.  [Completed Boilerplate](contents/35_Completed-Boilerplate.md)
   1.  Project Requirements
   1.  Project File Walkthrough
