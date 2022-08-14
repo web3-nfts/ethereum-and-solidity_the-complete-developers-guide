@@ -65,7 +65,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Compiling Solidity](contents/39_Compiling-Solidity.md)
   1.  [Invalid asm.js or Constructor Deprecation Warning](contents/40_Invalid-asmjs-or-Constructor-Deprecation-Warning.md)
   1.  [The Compile Script](contents/41_The-Compile-Script.md)
-  1.  Testing Architecture
+  1.  [Testing Architecture](contents/42_Testing-Architecture.md)
   1.  Installing Modules
   1.  [Web3 Versioning](contents/44_Web3-Versioning.md)
   1.  [Web3 Providers](contents/45_Web3-Providers.md)
