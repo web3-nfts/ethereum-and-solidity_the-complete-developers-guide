@@ -2,7 +2,9 @@
 
 -  `npm init`
 
-![](../imgs/37.1_Project-File-Walkthrough.png)
+-  setup Project - inbox directory
+
+    ![](../imgs/37.1_Project-File-Walkthrough.png)
 
 - **Create a inbox.sol**
     -   `inbox.sol`
