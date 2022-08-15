@@ -72,7 +72,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Testing with Mocha](contents/46_Testing-with-Mocha.md)
   1.  [Mocha Structure](contents/47_Mocha-Structure.md)
   1.  [Fetching Accounts from Ganache](contents/48_Fetching-Accounts-from-Ganache.md)
-  1.  Refactor to Async/Await
+  1.  [Refactor to Async/Await](contents/49_Refactor-to-Async_Await.md)
   1.  Deployment with Web3
   1.  Deployed Inbox Overview
   1.  Asserting Deployment
