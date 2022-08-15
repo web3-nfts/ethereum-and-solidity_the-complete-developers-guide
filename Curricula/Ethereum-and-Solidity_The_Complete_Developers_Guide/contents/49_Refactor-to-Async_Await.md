@@ -1,6 +1,6 @@
 #   49. Refactor to Async/Await
 
-## **create inbox.test.js** - Refactor to Async/Await
+## **Create inbox.test.js** - Refactor to Async/Await
 -   `inbox.test.js`
     ```
     const assert = require("assert");
@@ -24,10 +24,8 @@
             console.log(accounts);
         });
     });
-
-
     ```
-###  Testing with Mocha 
+##  Testing with Mocha 
 
 -   run Mocha test 
     ```

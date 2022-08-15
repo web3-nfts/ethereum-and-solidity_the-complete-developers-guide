@@ -5,7 +5,7 @@
 ![Fetching Accounts from Ganache](../imgs/48.2_Fetching-Accounts-from-Ganache.png)
 ---
 
-## **create inbox.test.js** - Promise
+## **Create inbox.test.js** - Promise
 -   `inbox.test.js`
     ```
     const assert = require("assert");
