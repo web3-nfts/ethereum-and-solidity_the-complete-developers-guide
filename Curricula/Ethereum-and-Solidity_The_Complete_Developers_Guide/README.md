@@ -80,7 +80,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Testing Message Updates](contents/54_Testing-Message-Updates.md)
   1.  [Deployment with Infura](contents/55_Deployment-with-Infura.md)
   1.  [Infura Signup](contents/56_Infura-Signup.md)
-  1.  Super Important Note about Seed / Recovery Phrase Security
+  1.  [Super Important Note about Seed / Recovery Phrase Security](contents/57_Super-Important-Note-about-Seed_Recovery-Phrase-Security.md)
   1.  Wallet Provider Setup
   1.  Deployment to Rinkeby
   1.  Observing Deployment on Etherscan
