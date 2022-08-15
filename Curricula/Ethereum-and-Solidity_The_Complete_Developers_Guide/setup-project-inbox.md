@@ -98,7 +98,8 @@ npm install --save mocha ganache-cli web3
 
     describe("Inbox", () => {
         it("deploys a contract", () => {
-            console.log(inbox);
+            // console.log(inbox);
+            assert.ok(inbox.options.address); // Asserting Deployment
         });
     });
     ```

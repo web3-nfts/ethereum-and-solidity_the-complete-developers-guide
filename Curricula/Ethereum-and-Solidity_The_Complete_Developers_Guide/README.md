@@ -75,7 +75,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Refactor to Async/Await](contents/49_Refactor-to-Async_Await.md)
   1.  [Deployment with Web3](contents/50_Deployment-with-Web3.md)
   1.  [Deployed Inbox Overview](contents/51_Deployed-Inbox-Overview.md)
-  1.  Asserting Deployment
+  1.  [Asserting Deployment](contents/52_Asserting-Deployment.md)
   1.  Verifying the Initial Message
   1.  Testing Message Updates
   1.  Deployment with Infura
