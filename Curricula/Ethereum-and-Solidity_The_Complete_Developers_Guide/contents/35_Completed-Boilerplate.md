@@ -31,6 +31,6 @@ Resources for this lecture
 
 - [35. Completed Boilerplate](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/learn/lecture/29293586#questions)
 
--   [35-boilerplate-inbox.zip](https://github.com/web3-nfts/bt-web3/blob/main/Curricula/developers-guide/Resources/35-boilerplate-inbox.zip)
+-   [35-boilerplate-inbox.zip](https://github.com/web3-nfts/bt-web3/raw/main/Curricula/Ethereum-and-Solidity_The_Complete_Developers_Guide/resources/35-boilerplate-inbox.zip)
 
  

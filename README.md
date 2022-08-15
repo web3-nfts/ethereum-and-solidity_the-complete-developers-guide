@@ -19,4 +19,11 @@ Apply to be among the first developers to learn Web3 at BloomTech! The course go
 - [Web3 Explainer: Expert Insights](https://www.youtube.com/watch?v=iq5LzePeJ5A)
 - [list of required software](https://docs.google.com/document/d/1LBUBPVqxdpN8rOYMnn9rs-bcrOOC6RIdAJIqgrcsob8/preview)
 
-  
+##  Courses are going
+
+-   [Ethereum and Solidity: The Complete Developer's Guide](Curricula/Ethereum-and-Solidity_The_Complete_Developers_Guide/README.md)
+-   [The Complete Solidity Course - Blockchain - Zero to Expert](Curricula/The-Complete-Solidity-Course_Blockchain-Zero-to-Expert/README.md)
+
+##  Need More Test Ether
+
+- [Need More Test Ether](Ref/README.md)
