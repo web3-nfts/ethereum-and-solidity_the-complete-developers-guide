@@ -195,3 +195,10 @@ npm install --save mocha ganache-cli web3
     };
     deploy();
     ```
+
+###  Deployment to Rinkeby 
+
+-   Deployment to Rinkeby 
+    ```
+    node deploy.js
+    ```
