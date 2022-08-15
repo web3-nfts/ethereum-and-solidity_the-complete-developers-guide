@@ -74,7 +74,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Fetching Accounts from Ganache](contents/48_Fetching-Accounts-from-Ganache.md)
   1.  [Refactor to Async/Await](contents/49_Refactor-to-Async_Await.md)
   1.  [Deployment with Web3](contents/50_Deployment-with-Web3.md)
-  1.  Deployed Inbox Overview
+  1.  [Deployed Inbox Overview](contents/51_Deployed-Inbox-Overview.md)
   1.  Asserting Deployment
   1.  Verifying the Initial Message
   1.  Testing Message Updates
