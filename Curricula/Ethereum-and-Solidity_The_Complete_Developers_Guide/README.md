@@ -77,7 +77,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Deployed Inbox Overview](contents/51_Deployed-Inbox-Overview.md)
   1.  [Asserting Deployment](contents/52_Asserting-Deployment.md)
   1.  [Verifying the Initial Message](contents/53_Verifying-the-Initial-Message.md)
-  1.  Testing Message Updates
+  1.  [Testing Message Updates](contents/54_Testing-Message-Updates.md)
   1.  Deployment with Infura
   1.  Infura Signup
   1.  Super Important Note about Seed / Recovery Phrase Security
