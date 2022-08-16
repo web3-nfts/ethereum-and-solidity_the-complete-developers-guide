@@ -86,7 +86,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Observing Deployment on Etherscan](contents/60_Observing-Deployment-on-Etherscan.md)
   1.  [Remix Permissions and Metamask](contents/61_Remix-Permissions-and-Metamask.md)
   1.  [Deployed Contracts in Remix](contents/62_Deployed-Contracts-in-Remix.md)
-  1.  Project Review
+  1.  [Project Review](contents/63_Project-Review.md)
   1.  Updating Your Inbox Project to Solc v0.8.9
 </details>
 
