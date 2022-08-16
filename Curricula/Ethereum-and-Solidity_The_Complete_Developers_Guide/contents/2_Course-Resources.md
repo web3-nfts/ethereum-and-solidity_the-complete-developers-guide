@@ -22,6 +22,8 @@ or
 
 Note - *Please understand, if a diagram or group of diagrams is missing, this means that we no longer have them to share. You'll need to use a good screenshot browser extension to make a copy from the video lecture.*
 
+---
+
 ## Resources for this lecture
 
 - [diagrams](https://drive.google.com/drive/folders/18TNZClLxeydciVmEEIhQctLpC2hoOAgh?usp=sharing)

@@ -27,7 +27,9 @@ If you are using Windows, you may need to install additional dependencies.
 
 https://github.com/nodejs/node-gyp#on-windows
 
-Resources for this lecture
+---
+
+### Resources for this lecture
 
 - [35. Completed Boilerplate](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/learn/lecture/29293586#questions)
 

@@ -20,4 +20,6 @@
     module.exports = solc.compile(source, 1).contracts[':Inbox'];
     ```
 
+---
+
 -   [38-compiling.zip](https://github.com/web3-nfts/bt-web3/raw/main/Curricula/developers-guide/resources/38-compiling.zip)
