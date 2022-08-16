@@ -83,7 +83,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Super Important Note about Seed / Recovery Phrase Security](contents/57_Super-Important-Note-about-Seed_Recovery-Phrase-Security.md)
   1.  [Wallet Provider Setup](contents/58_Wallet-Provider-Setup.md)
   1.  [Deployment to Rinkeby](contents/59_Deployment-to-Rinkeby.md)
-  1.  Observing Deployment on Etherscan
+  1.  [Observing Deployment on Etherscan](contents/60_Observing-Deployment-on-Etherscan.md)
   1.  Remix Permissions and Metamask
   1.  Deployed Contracts in Remix
   1.  Project Review
