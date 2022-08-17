@@ -103,7 +103,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Overview of Mappings and Structs](contents/72_Overview-of-Mappings-and-Structs.md)
   1.  [Big Solidity Gotcha](./contents/73_Big-Solidity-Gotcha.md)
   1.  [Entering the Lottery](contents/74_Entering-the-Lottery.md)
-  1.  Validation with Require Statements
+  1.  [Validation with Require Statements](contents/75_Validation-with-Require-Statements.md)
   1.  The Remix Debugger
   1.  Pseudo Random Number Generator
   1.  Selecting a Winner
