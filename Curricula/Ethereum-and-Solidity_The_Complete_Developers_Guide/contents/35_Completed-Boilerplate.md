@@ -6,8 +6,8 @@ To use the boilerplate:
 1.  Download the zip file attached to this lecture.
 
 2.  Unzip / Extract the contents of the zip file:
-    If you are using macOS, unzip to the **/Users/YourUserName** location.
-    If you are using Windows, unzip to the **C:\Users\YourUserName** location.
+    -   If you are using macOS, unzip to the **/Users/YourUserName** location.
+    -   If you are using Windows, unzip to the **C:\Users\YourUserName** location.
 
 3.  Using your terminal application (GitBash for Windows, Terminal for macOS), change into the inbox project directory by running the `cd ~/inbox` command. Note - This command will fail if you have unzipped the file to a location other than what was suggested in step #2.
 
@@ -27,11 +27,12 @@ If you are using Windows, you may need to install additional dependencies.
 
 https://github.com/nodejs/node-gyp#on-windows
 
+
+- [35. Completed Boilerplate](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/learn/lecture/29293586#questions)
+
 ---
 
 ### Resources for this lecture
-
-- [35. Completed Boilerplate](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/learn/lecture/29293586#questions)
 
 -   [35-boilerplate-inbox.zip](https://github.com/web3-nfts/bt-web3/raw/main/Curricula/Ethereum-and-Solidity_The_Complete_Developers_Guide/resources/35-boilerplate-inbox.zip)
 
