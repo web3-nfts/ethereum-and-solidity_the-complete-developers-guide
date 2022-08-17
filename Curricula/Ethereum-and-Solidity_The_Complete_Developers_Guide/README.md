@@ -94,7 +94,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   <summary>Section 3: Advanced Smart Contracts</summary>
 
   65. [The Lottery Contract](contents/65_The-Lottery-Contract.md)
-  1.  Lottery Design
+  1.  [Lottery Design](contents/66_Lottery-Design.md)
   1.  Reminder on Updated Remix
   1.  [Basic Solidity Types](.)
   1.  [Starting the Lottery Contract](.)
