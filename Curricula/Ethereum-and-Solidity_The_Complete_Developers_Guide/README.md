@@ -99,7 +99,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Basic Solidity Types](contents/68_Basic-Solidity-Types.md)
   1.  [Starting the Lottery Contract](contents/69_Starting-the-Lottery-Contract.md)
   1.  [The Message Global Variable](contents/70_The-Message-Global-Variable.md)
-  1.  Overview of Arrays
+  1.  [Overview of Arrays](contents/71_Overview-of-Arrays.md)
   1.  Overview of Mappings and Structs
   1.  Big Solidity Gotcha
   1.  Entering the Lottery
