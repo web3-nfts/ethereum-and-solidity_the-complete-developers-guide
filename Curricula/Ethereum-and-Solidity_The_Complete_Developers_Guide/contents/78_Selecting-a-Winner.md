@@ -19,9 +19,9 @@
         function random() private view returns (uint) {
             return uint(keccak256(abi.encodePacked(block.difficulty, now, players)));            
         }
-        function pickWinner() public {
+        function pickWinner() public view {
             uint index = random() % players.length;
-            players[index].transfer(address(this).balance);
+            players[index];
         }
         
     } 
@@ -31,12 +31,5 @@
 ---
 
 
-<details>
-  <summary>Selecting a Winner - warning and result</summary>    
-
-- [Warning: Using contract member "balance" inherited from the address type is deprecated. Solidity](https://stackoverflow.com/questions/51372365/warning-using-contract-member-balance-inherited-from-the-address-type-is-depr)
----
-![78. Selecting a Winner](../imgs/78.2_Selecting-a-Winner.png)
-</details>
 
 
