@@ -21,7 +21,8 @@
             
         }
         
-    }   
+    } 
+    ```  
 
 ![77. Pseudo Random Number Generator](../imgs/77.1_Pseudo-Random-Number-Generator.png)
 

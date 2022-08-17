@@ -106,7 +106,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Validation with Require Statements](contents/75_Validation-with-Require-Statements.md)
   1.  [The Remix Debugger](contents/76_The-Remix-Debugger.md)
   1.  [Pseudo Random Number Generator](contents/77_Pseudo-Random-Number-Generator.md)
-  1.  Selecting a Winner
+  1.  [Selecting a Winner](contents/78_Selecting-a-Winner.md)
   1.  Sending Ether from Contracts
   1.  Resetting Contract State
   1.  Requiring Managers
