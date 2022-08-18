@@ -114,7 +114,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Returning Players Array](contents/83_Returning-Players-Array.md)
   1.  [Contract Review](contents/84_Contract-Review.md)
   1.  [Completed Boilerplate - Do Not Skip](contents/85_Completed-Boilerplate-Do_Not_Skip.md)
-  1.  New Test Setup
+  1.  [New Test Setup](contents/86_New-Test-Setup.md)
   1.  Test Project Updates
   1.  Test Helper Review
   1.  Asserting Deployment
