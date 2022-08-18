@@ -119,7 +119,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Test Helper Review](contents/88_Test-Helper-Review.md)
   1.  [Asserting Deployment](contents/89_Asserting-Deployment.md)
   1.  [Entering the Lottery](contents/90_Entering-the-Lottery.md)
-  1.  Asserting Multiple Players
+  1.  [Asserting Multiple Players](contents/91_Asserting-Multiple-Players.md)
   1.  Try-Catch Assertions
   1.  Testing Function Modifiers
   1.  End to End Test
