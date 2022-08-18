@@ -122,7 +122,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Asserting Multiple Players](contents/91_Asserting-Multiple-Players.md)
   1.  [Try-Catch Assertions](contents/92_Try_Catch-Assertions.md)
   1.  [Testing Function Modifiers](./contents/93_Testing-Function-Modifiers.md)
-  1.  End to End Test
+  1.  [End to End Test](contents/94_End-to-End-Test.md)
 </details>  
 
 <details>
