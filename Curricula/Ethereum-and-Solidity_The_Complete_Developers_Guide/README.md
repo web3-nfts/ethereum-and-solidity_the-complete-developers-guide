@@ -135,7 +135,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Multiple Web3 Instances](contents/99_Multiple-Web3-Instances.md)
   1.  [Required Update for Web3 and Metamask Permissions](contents/100_Required-Update-for-Web3-and-Metamask-Permissions.md)
   1.  [BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules](contents/101_BREAKING-CHANGE_webpack-%3C-5-used-to-include-polyfills-for-nodejs-core-modules.md)
-  1.  Web3 Setup
+  1.  [Web3 Setup](contents/102_Web3-Setup.md)
   1.  Deploying the Lottery Contract
   1.  Local Contract Instances
   1.  Rendering Contract Data
