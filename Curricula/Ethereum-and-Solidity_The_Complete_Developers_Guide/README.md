@@ -128,8 +128,8 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
 <details>
   <summary>Section 4: Building Interactive Front-Ends</summary>
 
-  95. Ethereum App Architecture
-  1.  Boilerplate and React App Updates - Do Not Skip
+  95. [Ethereum App Architecture](contents/95_Ethereum-App-Architecture.md)
+  1.  [Boilerplate and React App Updates - Do Not Skip](contents/96_Boilerplate-and-React-App-Updates-Do_Not_Skip.md)
   1.  Application Overview
   1.  Getting Started with Create-React-App
   1.  Multiple Web3 Instances
