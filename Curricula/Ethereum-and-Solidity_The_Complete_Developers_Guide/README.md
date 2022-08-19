@@ -101,7 +101,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [The Message Global Variable](contents/70_The-Message-Global-Variable.md)
   1.  [Overview of Arrays](contents/71_Overview-of-Arrays.md)
   1.  [Overview of Mappings and Structs](contents/72_Overview-of-Mappings-and-Structs.md)
-  1.  [Big Solidity Gotcha](./contents/73_Big-Solidity-Gotcha.md)
+  1.  [Big Solidity Gotcha](contents/73_Big-Solidity-Gotcha.md)
   1.  [Entering the Lottery](contents/74_Entering-the-Lottery.md)
   1.  [Validation with Require Statements](contents/75_Validation-with-Require-Statements.md)
   1.  [The Remix Debugger](contents/76_The-Remix-Debugger.md)
@@ -121,7 +121,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Entering the Lottery](contents/90_Entering-the-Lottery.md)
   1.  [Asserting Multiple Players](contents/91_Asserting-Multiple-Players.md)
   1.  [Try-Catch Assertions](contents/92_Try_Catch-Assertions.md)
-  1.  [Testing Function Modifiers](./contents/93_Testing-Function-Modifiers.md)
+  1.  [Testing Function Modifiers](contents/93_Testing-Function-Modifiers.md)
   1.  [End to End Test](contents/94_End-to-End-Test.md)
 </details>  
 

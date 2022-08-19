@@ -23,6 +23,8 @@ Apply to be among the first developers to learn Web3 at BloomTech! The course go
 
 -   [Ethereum and Solidity: The Complete Developer's Guide](Curricula/Ethereum-and-Solidity_The_Complete_Developers_Guide/README.md)
 -   [The Complete Solidity Course - Blockchain - Zero to Expert](Curricula/The-Complete-Solidity-Course_Blockchain-Zero-to-Expert/README.md)
+-   [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](Curricula/Learn-Blockchain_Solidity_and_Full-Stack-Web3-Development-with-JavaScript/README.md)
+-   [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](Curricula/Solidity_Blockchain_and_Smart-Contract-Course%E2%80%93Beginner-to-Expert-Python-Tutorial/README.md)
 
 ##  Need More Test Ether
 
