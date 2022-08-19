@@ -131,7 +131,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   95. [Ethereum App Architecture](contents/95_Ethereum-App-Architecture.md)
   1.  [Boilerplate and React App Updates - Do Not Skip](contents/96_Boilerplate-and-React-App-Updates-Do_Not_Skip.md)
   1.  [Application Overview](contents/97_Application-Overview.md)
-  1.  Getting Started with Create-React-App
+  1.  [Getting Started with Create-React-App](contents/98_Getting-Started-with-Create-React-App.md)
   1.  Multiple Web3 Instances
   1.  Required Update for Web3 and Metamask Permissions
   1.  BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules
