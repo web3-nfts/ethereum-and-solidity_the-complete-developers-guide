@@ -138,7 +138,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Web3 Setup](contents/102_Web3-Setup.md)
   1.  [Deploying the Lottery Contract](contents/103_Deploying-the-Lottery-Contract.md)
   1.  [Local Contract Instances](contents/104_Local-Contract-Instances.md)
-  1.  Rendering Contract Data
+  1.  [Rendering Contract Data](contents/105_Rendering-Contract-Data.md)
   1.  Instance Properties
   1.  Accessing More Properties
   1.  The 'Enter' Form
