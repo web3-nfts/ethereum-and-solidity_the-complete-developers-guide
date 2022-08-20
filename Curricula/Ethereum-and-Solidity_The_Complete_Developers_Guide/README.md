@@ -137,7 +137,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules](contents/101_BREAKING-CHANGE_webpack-%3C-5-used-to-include-polyfills-for-nodejs-core-modules.md)
   1.  [Web3 Setup](contents/102_Web3-Setup.md)
   1.  [Deploying the Lottery Contract](contents/103_Deploying-the-Lottery-Contract.md)
-  1.  Local Contract Instances
+  1.  [Local Contract Instances](contents/104_Local-Contract-Instances.md)
   1.  Rendering Contract Data
   1.  Instance Properties
   1.  Accessing More Properties
