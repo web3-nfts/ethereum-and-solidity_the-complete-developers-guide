@@ -114,7 +114,8 @@ Then, using your terminal, change into the root of the lottery-react project dir
     npm install
     ```
 
-- [digital envelope routines::initialization error](https://stackoverflow.com/questions/69665222/node-js-17-0-1-gatsby-error-digital-envelope-routinesunsupported-err-os)
+- [pwd
+](https://stackoverflow.com/questions/69665222/node-js-17-0-1-gatsby-error-digital-envelope-routinesunsupported-err-os)
 - [101. BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules](101_BREAKING-CHANGE_webpack-%3C-5-used-to-include-polyfills-for-nodejs-core-modules.md)
 - [How to Polyfill node core modules in webpack 5](https://stackoverflow.com/questions/64557638/how-to-polyfill-node-core-modules-in-webpack-5)
 
