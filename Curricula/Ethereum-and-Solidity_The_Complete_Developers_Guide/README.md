@@ -140,7 +140,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Local Contract Instances](contents/104_Local-Contract-Instances.md)
   1.  [Rendering Contract Data](contents/105_Rendering-Contract-Data.md)
   1.  [Instance Properties](contents/106_Instance-Properties.md)
-  1.  Accessing More Properties
+  1.  [Accessing More Properties](contents/107_Accessing-More-Properties.md)
   1.  The 'Enter' Form
   1.  Form Setup
   1.  Entering the Lottery
