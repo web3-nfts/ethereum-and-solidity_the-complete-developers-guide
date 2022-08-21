@@ -143,8 +143,8 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Accessing More Properties](contents/107_Accessing-More-Properties.md)
   1.  [The 'Enter' Form](contents/108_The-'Enter'-Form.md)
   1.  [Form Setup](contents/109_Form-Setup.md)
-  1.  Entering the Lottery
-  1.  Picking a Winner
+  1.  [Entering the Lottery](contents/110_Entering-the-Lottery.md)
+  1.  [Picking a Winner](./contents/)
   1.  Project Review
   1.  Updating Your Lottery Project to Solc v0.8.9
 </details> 
