@@ -154,7 +154,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
 
   114. [Solving Real Problems with Contracts](contents/114_Solving-Real-Problems-with-Contracts.md)
   1.  [Fixing Kickstarter's Issues](contents/115_Fixing-Kickstarter's-Issues.md)
-  1.  Campaign Contract Design
+  1.  [Campaign Contract Design](contents/116_Campaign-Contract-Design.md)
   1.  Reminder on Updated Remix UI
   1.  Campaign Constructor
   1.  Contributing to the Campaign
