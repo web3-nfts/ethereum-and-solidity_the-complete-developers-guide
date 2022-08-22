@@ -157,7 +157,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Campaign Contract Design](contents/116_Campaign-Contract-Design.md)
   1.  [Reminder on Updated Remix UI](contents/117_Reminder-on-Updated-Remix-UI.md)
   1.  [Campaign Constructor](contents/118_Campaign-Constructor.md)
-  1.  Contributing to the Campaign
+  1.  [Contributing to the Campaign](contents/119_Contributing-to-the-Campaign.md)
   1.  A Quick Test
   1.  The Request Struct
   1.  More on Function Modifiers
