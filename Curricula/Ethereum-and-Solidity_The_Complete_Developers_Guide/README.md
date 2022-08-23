@@ -167,7 +167,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [More on Storage vs Memory](contents/126_More-on-Storage-vs-Memory.md)
   1.  [Voting System Requirements](contents/127_Voting-System-Requirements.md)
   1.  [The Wrong Voting System](contents/128_The-Wrong-Voting-System.md)
-  1.  Issues with Arrays
+  1.  [Issues with Arrays](contents/129_Issues-with-Arrays.md)
   1.  Mappings vs Arrays
   1.  Basics of Mappings
   1.  Refactoring to Mappings
