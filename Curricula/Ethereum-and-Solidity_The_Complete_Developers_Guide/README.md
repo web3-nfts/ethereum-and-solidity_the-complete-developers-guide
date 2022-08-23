@@ -162,7 +162,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [The Request Struct](contents/121_The-Request-Struct.md)
   1.  [More on Function Modifiers](contents/122_More-on-Function-Modifiers.md)
   1.  [Creating Struct Instances](contents/123_Creating-Struct-Instances.md)
-  1.  Instance Creation Syntax
+  1.  [Instance Creation Syntax](contents/124_Instance-Creation-Syntax.md)
   1.  Storage and Memory
   1.  More on Storage vs Memory
   1.  Voting System Requirements
