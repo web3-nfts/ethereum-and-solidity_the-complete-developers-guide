@@ -196,7 +196,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Creating Campaign Instances](contents/150_Creating-Campaign-Instances.md)
   1.  [Testing Warmup](contents/151_Testing-Warmup.md)
   1.  [Accessing Mappings](contents/152_Accessing-Mappings.md)
-  1.  Requiring Minimum Contributions
+  1.  [Requiring Minimum Contributions](contents/153_Requiring-Minimum-Contributions.md)
   1.  Array Getters
   1.  One End to End Test
   1.  Deployment
