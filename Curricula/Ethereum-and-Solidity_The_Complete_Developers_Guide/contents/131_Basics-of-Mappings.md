@@ -5,11 +5,12 @@
 const spanishColors = {
 	red: 'rojo',
 	green: 'verde',
-  orange: 'naranja'
+    orange: 'naranja'
 };
 
 Object.keys(spanishColors);
 Object.values(spanishColors);
+spanishColors['red']
 ```
 
 ![131. Basics of Mappings](../imgs/131.1_Basics-of-Mappings.png)
