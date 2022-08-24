@@ -108,9 +108,27 @@ contract Campaign {
  
 ## **create compile.js**
 -   `compile.js`
-    ```
-    
-    ```
+```
+const path = require("path");
+const solc = require("solc");
+const fs = require("fs-extra");
+
+const buildPath = path.resolve(__dirname, "build");
+fs.removeSync(buildPath);
+
+const campaignPath = path.resolve(__dirname, "contracts", "Campaign.sol");
+const source = fs.readFileSync(campaignPath, "utf8");
+const output = solc.compile(source, 1).contracts;
+
+fs.ensureDirSync(buildPath);
+
+for (let contract in output) {
+  fs.outputJsonSync(
+    path.resolve(buildPath, contract + ".json"),
+    output[contract]
+  );
+}
+```
 
 ##  run `node compile.js`
 
@@ -134,8 +152,8 @@ or
 **These specific warnings can be ignored as they will not cause any issues with the compilation or deployment of the contract we are building.**
 </details>  
 
-## **create kickstart.test.js**
--   `kickstart.test.js`
+## **create test.js**
+-   `test.js`
     ```
     
     ```

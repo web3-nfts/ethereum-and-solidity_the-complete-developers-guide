@@ -190,8 +190,8 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Project Setup](contents/144_Project-Setup.md)
   1.  [Directory Structure](contents/145_Directory-Structure.md)
   1.  [A Better Compile Script](contents/146_A-Better-Compile-Script.md)
-  1.  Single Run Compilation
-  1.  More on Compile
+  1.  [Single Run Compilation](contents/147_Single-Run-Compilation.md)
+  1.  [More on Compile](contents/)
   1.  Test File Setup
   1.  Creating Campaign Instances
   1.  Testing Warmup
