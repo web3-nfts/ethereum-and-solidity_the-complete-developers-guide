@@ -175,7 +175,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [More on Struct Initialization](contents/134_More-on-Struct-nitialization.md)
   1.  [Approving a Request](contents/135_Approving-a-Request.md)
   1.  [Testing Request Approvals](contents/136_Testing-Request-Approvals.md)
-  1.  Finalizing a Request
+  1.  [Finalizing a Request](contents/137_Finalizing-a-Request.md)
   1.  Last Remix Test
   1.  Thinking about Deployment
   1.  Solution to Deployment
