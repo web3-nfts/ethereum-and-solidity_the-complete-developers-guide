@@ -178,7 +178,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Finalizing a Request](contents/137_Finalizing-a-Request.md)
   1.  [Last Remix Test](contents/138_Last-Remix-Test.md)
   1.  [Thinking about Deployment](contents/139_Thinking-about-Deployment.md)
-  1.  Solution to Deployment
+  1.  [Solution to Deployment](contents/140_Solution-to-Deployment.md)
   1.  Adding a Campaign Factory
   1.  Testing the Factory
 </details> 
