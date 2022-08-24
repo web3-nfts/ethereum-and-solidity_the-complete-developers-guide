@@ -109,15 +109,7 @@ contract Campaign {
 ## **create compile.js**
 -   `compile.js`
     ```
-    const path = require("path");
-    const fs = require("fs");
-    const solc = require("solc");
-
-    const inboxPath = path.resolve(__dirname, "contracts", "Inbox.sol");
-    const source = fs.readFileSync(inboxPath, "utf8");
-
-    //  console.log(solc.compile(source, 1));
-    module.exports = solc.compile(source, 1).contracts[':Inbox'];
+    
     ```
 
 ##  run `node compile.js`
@@ -208,31 +200,7 @@ or
 ## **Create deploy.js** 
 -   `deploy.js`
     ```
-    const HDWalletProvider = require('@truffle/hdwallet-provider');
-    const Web3 = require('web3');
-    const { interface, bytecode } = require('./compile');
-
-    const provider = new HDWalletProvider(
-        'REPLACE_WITH_YOUR_MNEMONIC',
-        // remember to change this to your own phrase!
-        'https://rinkeby.infura.io/v3/15c1d32581894b88a92d8d9e519e476c'
-        // remember to change this to your own endpoint!
-    );
-    const web3 = new Web3(provider);
-
-    const deploy = async () => {
-        const accounts = await web3.eth.getAccounts();
-
-        console.log('Attempting to deploy from account', accounts[0]);
-
-        const result = await new web3.eth.Contract(JSON.parse(interface))
-            .deploy({ data: bytecode, arguments: ['Hi there!'] })
-            .send({ gas: '1000000', from: accounts[0] });
-
-        console.log('Contract deployed to', result.options.address);
-        provider.engine.stop();
-    };
-    deploy();
+    
     ```
 
 ###  Deployment to Rinkeby 
