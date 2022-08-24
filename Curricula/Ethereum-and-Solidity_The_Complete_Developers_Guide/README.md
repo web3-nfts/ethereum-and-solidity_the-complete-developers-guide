@@ -173,7 +173,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Refactoring to Mappings](contents/132_Refactoring-to-Mappings.md)
   1.  [Refactoring Request Stucts](contents/133_Refactoring-Request-Stucts.md)
   1.  [More on Struct Initialization](contents/134_More-on-Struct-nitialization.md)
-  1.  Approving a Request
+  1.  [Approving a Request](contents/135_Approving-a-Request.md)
   1.  Testing Request Approvals
   1.  Finalizing a Request
   1.  Last Remix Test
