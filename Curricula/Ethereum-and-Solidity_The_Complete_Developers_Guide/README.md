@@ -186,7 +186,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
 <details>
   <summary>Section 6: Ethereum Project Infrastructure</summary>
 
-  143. Completed Boilerplate - Do Not Skip
+  143. [Completed Boilerplate - Do Not Skip](contents/143_Completed-Boilerplate-Do_Not_Skip.md)
   1.  Project Setup
   1.  Directory Structure
   1.  A Better Compile Script
