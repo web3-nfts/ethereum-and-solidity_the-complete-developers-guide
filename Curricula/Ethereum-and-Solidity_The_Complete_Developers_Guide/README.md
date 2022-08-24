@@ -180,7 +180,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Thinking about Deployment](contents/139_Thinking-about-Deployment.md)
   1.  [Solution to Deployment](contents/140_Solution-to-Deployment.md)
   1.  [Adding a Campaign Factory](contents/141_Adding-a-Campaign-Factory.md)
-  1.  Testing the Factory
+  1.  [Testing the Factory](contents/142_Testing-the-Factory.md)
 </details> 
 
 <details>
