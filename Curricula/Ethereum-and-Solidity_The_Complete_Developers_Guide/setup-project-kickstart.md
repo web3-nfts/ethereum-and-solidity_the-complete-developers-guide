@@ -412,7 +412,7 @@ npm install next react react-dom
 ```
 
 <details>
-  <summary>Create pages/show.js pages/newcampaign.js</summary>
+  <summary>Create next architecture</summary>
 
 **under kickstart root directory**
 ```
@@ -450,5 +450,11 @@ export default () => {
 **npm run dev**
 ```
 npm run dev
+```
+
+**add the .next `.gitignore`**
+```
+# next.js 
+.next
 ```
 </details>
