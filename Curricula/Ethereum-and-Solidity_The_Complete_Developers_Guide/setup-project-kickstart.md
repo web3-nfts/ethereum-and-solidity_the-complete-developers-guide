@@ -326,7 +326,7 @@ or
 
 -   [infura.io](https://infura.io/)
 
-##  Wallet Provider Setup
+**Wallet Provider Setup**
 
 -   Wallet Provider Setup
     ```
@@ -370,7 +370,8 @@ deploy();
 ```
 </details>
 
-**Create secrest folder and .env**
+<details>
+  <summary>Create secrest folder and .env</summary>
 
 -   install dotenv
     ```
@@ -395,6 +396,7 @@ infuraRinkebyEndpoint = 'this is your Rinkeby endpoint'
 infuraGorliEndpoint = 'this is your Goeril endpoint'
 infuraSepoliaEndpoint = 'this is your Sepolia endpoint'
 ```
+</details>
 
 **Deployment** 
 
@@ -409,12 +411,44 @@ infuraSepoliaEndpoint = 'this is your Sepolia endpoint'
 npm install next react react-dom
 ```
 
-**Create pages/show.js pages/newcampaign.js**
+<details>
+  <summary>Create pages/show.js pages/newcampaign.js</summary>
 
-- under kickstart root directory
+**under kickstart root directory**
 ```
 mkdie pages
 cd pages
 touch show.js
 touch newcampaign.js
-```    
+```   
+
+`newcampaign.js`
+```
+import React from 'react';
+
+export default () => {
+    return <h1>This is the new campaign page!!!</h1>
+}
+```
+
+`show.js`
+```
+import React from 'react';
+
+export default () => {
+    return <h1>Welcome to the show page!!!</h1>
+}
+```
+
+**add the `package.json`**
+```
+"scripts": {
+    "dev": "next dev"
+}
+```
+
+**npm run dev**
+```
+npm run dev
+```
+</details>
