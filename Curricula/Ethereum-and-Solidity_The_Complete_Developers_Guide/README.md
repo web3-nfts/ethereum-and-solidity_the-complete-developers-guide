@@ -207,7 +207,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   <summary>Section 7: Advanced Multi-Page Front-Ends</summary>
 
   158. [App Mockups](contents/158_App-Mockups.md)
-  1.  CRA vs Next
+  1.  [CRA vs Next](contents/159_CRA-vs-Next.md)
   1.  Next's Pages Architecture
   1.  Basics of Next Routing
   1.  Root Routes
