@@ -22,3 +22,9 @@
 -   [Ethereum Merge Kiln Testnet](https://etherworld.co/2022/03/14/how-to-join-ethereum-merge-kiln-testnet/)
 -   [Sepolia Testnet](https://learn.block6.tech/sepolia-testnet-cfe6623f05dc)
 
+## [Extra](./Ethereum-and-Solidity_The_Complete_Developers_Guide/README.md)
+
+-   [NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/?couponCode=ADCE6741CC-BONUS)
+-   [Next.js & React - The Complete Guide (incl. Two Paths!)](https://github.com/ShuhanCode/art-javascript/tree/main/Curricula/nextjs)
+
+

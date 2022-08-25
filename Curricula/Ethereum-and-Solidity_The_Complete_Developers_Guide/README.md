@@ -208,7 +208,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
 
   158. [App Mockups](contents/158_App-Mockups.md)
   1.  [CRA vs Next](contents/159_CRA-vs-Next.md)
-  1.  Next's Pages Architecture
+  1.  [Next's Pages Architecture](contents/160_Next's-Pages-Architecture.md)
   1.  Basics of Next Routing
   1.  Root Routes
   1.  Required Web3 Update - Do Not Skip
@@ -356,3 +356,8 @@ Solidity is a programming language for writing Smart Contracts.  Essentially, th
 ##  Who this course is for:
 - Programmers looking to leverage blockchain technology for advanced apps
 - Engineers who want to understand Ethereum and how to build apps with it
+
+## Extra
+
+-   [NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/?couponCode=ADCE6741CC-BONUS)
+-   [Next.js & React - The Complete Guide (incl. Two Paths!)](https://github.com/ShuhanCode/art-javascript/tree/main/Curricula/nextjs)

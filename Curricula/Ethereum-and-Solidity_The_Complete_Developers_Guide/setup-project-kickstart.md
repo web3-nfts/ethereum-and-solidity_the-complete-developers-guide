@@ -402,3 +402,19 @@ infuraSepoliaEndpoint = 'this is your Sepolia endpoint'
     ```
     node deploy.js
     ```
+## Next.js
+
+**Install next.js**
+```
+npm install next react react-dom
+```
+
+**Create pages/show.js pages/newcampaign.js**
+
+- under kickstart root directory
+```
+mkdie pages
+cd pages
+touch show.js
+touch newcampaign.js
+```    
