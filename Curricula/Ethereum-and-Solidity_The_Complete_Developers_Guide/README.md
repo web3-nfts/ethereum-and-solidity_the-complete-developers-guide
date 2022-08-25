@@ -211,7 +211,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Next's Pages Architecture](contents/160_Next's-Pages-Architecture.md)
   1.  [Basics of Next Routing](contents/161_Basics-of-Next-Routing.md)
   1.  [Root Routes](contents/162_Root-Routes.md)
-  1.  Required Web3 Update - Do Not Skip
+  1.  [Required Web3 Update - Do Not Skip](contents/163_Required-Web3-Update-Do_Not_Skip.md)
   1.  CampaignFactory Instance
   1.  Reminder on Updated Remix UI
   1.  Getting a Test Campaign
