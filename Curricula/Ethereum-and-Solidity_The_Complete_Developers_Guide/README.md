@@ -213,7 +213,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Root Routes](contents/162_Root-Routes.md)
   1.  [Required Web3 Update - Do Not Skip](contents/163_Required-Web3-Update-Do_Not_Skip.md)
   1.  [CampaignFactory Instance](contents/164_CampaignFactory-Instance.md)
-  1.  Reminder on Updated Remix UI
+  1.  [Reminder on Updated Remix UI](contents/165_Reminder-on-Updated-Remix-UI.md)
   1.  Getting a Test Campaign
   1.  Fetching Deployed Campaigns
   1.  Why Next.js, Anyways?
