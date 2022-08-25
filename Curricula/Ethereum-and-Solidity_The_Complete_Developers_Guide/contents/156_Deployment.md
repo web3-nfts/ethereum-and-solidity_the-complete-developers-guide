@@ -5,7 +5,7 @@
 npm install @truffle/hdwallet-provider dotenv
 ```
 
-**deploy.js**
+**deploy.js** - need refactory!!!!
 ```
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 const Web3 = require('web3');

@@ -200,7 +200,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Array Getters](contents/154_Array-Getters.md)
   1.  [One End to End Test](contents/155_One-End-to-End-Test.md)
   1.  [Deployment](contents/156_Deployment.md)
-  1.  Refactoring Deployment
+  1.  [Refactoring Deployment](contents/157_Refactoring-Deployment.md)
 </details> 
 
 <details>

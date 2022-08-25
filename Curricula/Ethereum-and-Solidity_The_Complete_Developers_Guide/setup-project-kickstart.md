@@ -1,15 +1,15 @@
 #   How to setup project - Kickstart
 
-##  initialize Project - Kickstart
+##  Initialize Project - Kickstart
 -   `mkdir kickstart`
 -   `cd kickstart`
 -   `npm init`
 
 ##  Installing Modules
 
-**install ganache-cli mocha solc@0.4.17 fs-extra web3 @truffle/hdwallet-provider** 
+**install ganache-cli mocha solc@0.4.17 fs-extra web3 @truffle/hdwallet-provider and dotenv** 
 ```
-npm install ganache-cli mocha solc@0.4.17 fs-extra web3 @truffle/hdwallet-provider
+npm install ganache-cli mocha solc@0.4.17 fs-extra web3 @truffle/hdwallet-provider dotenv
 ```
 <details>
   <summary>Installing Modules - result</summary>
@@ -18,7 +18,7 @@ npm install ganache-cli mocha solc@0.4.17 fs-extra web3 @truffle/hdwallet-provid
 ---
 </details>  
 
-## **create a Campaign.sol**
+## Create a Campaign.sol
 <details>
   <summary>Campaign.sol</summary>
 
@@ -106,53 +106,11 @@ contract Campaign {
 ```
 </details>  
  
-## **create compile.js**
--   `compile.js`
-```
-const path = require("path");
-const solc = require("solc");
-const fs = require("fs-extra");
-
-const buildPath = path.resolve(__dirname, "build");
-fs.removeSync(buildPath);
-
-const campaignPath = path.resolve(__dirname, "contracts", "Campaign.sol");
-const source = fs.readFileSync(campaignPath, "utf8");
-const output = solc.compile(source, 1).contracts;
-
-fs.ensureDirSync(buildPath);
-
-for (let contract in output) {
-  fs.outputJsonSync(
-    path.resolve(buildPath, contract.replace(':', '') + ".json"),
-    output[contract]
-  );
-}
-```
-
-##  run `node compile.js`
-
--   in terminal run `node compile.js`
+## create test files
 
 <details>
-  <summary>compile - issues</summary>
+  <summary>Campaign.test.js</summary>
 
-In the upcoming lecture, we will be logging the compilation of our script to the terminal. If you are using **solc 0.4.17** as shown in the course, you may get these warnings:
-
-*Invalid asm.js: Invalid member of stdlib*
-
-or
-
-*':6:5: Warning: Defining constructors as functions with the same name as the contract is deprecated. Use "constructor(...) { ... }" instead.\n' +*
-
-'    function Inbox(string initialMessage) public {\n' +
-
-'    ^ (Relevant source part starts here and spans across multiple lines).\n'
-
-**These specific warnings can be ignored as they will not cause any issues with the compilation or deployment of the contract we are building.**
-</details>  
-
-## **Campaign.test.ja** 
 ```
 const assert = require('assert');
 const ganache = require('ganache-cli');
@@ -260,7 +218,9 @@ describe('[Campaigns', () => {
     });
 });
 ```
-###  Testing with Mocha 
+</details>  
+
+**Testing with Mocha** 
 
 -   change the `package.json`
     ```
@@ -308,25 +268,137 @@ describe('[Campaigns', () => {
 - [Error message "error:0308010C:digital envelope routines::unsupported"](https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported)
 </details> 
 
-## **Infura Signup**
+## **Create compile.js**
+<details>
+  <summary>compile.js</summary>
+
+```
+const path = require("path");
+const solc = require("solc");
+const fs = require("fs-extra");
+
+const buildPath = path.resolve(__dirname, "build");
+fs.removeSync(buildPath);
+
+const campaignPath = path.resolve(__dirname, "contracts", "Campaign.sol");
+const source = fs.readFileSync(campaignPath, "utf8");
+const output = solc.compile(source, 1).contracts;
+
+fs.ensureDirSync(buildPath);
+
+for (let contract in output) {
+  fs.outputJsonSync(
+    path.resolve(buildPath, contract.replace(':', '') + ".json"),
+    output[contract]
+  );
+}
+```
+</details>  
+
+**run `node compile.js`**
+
+-   in terminal run 
+```
+node compile.js
+```
+
+<details>
+  <summary>compile - issues</summary>
+
+```
+In the upcoming lecture, we will be logging the compilation of our script to the terminal. If you are using **solc 0.4.17** as shown in the course, you may get these warnings:
+
+*Invalid asm.js: Invalid member of stdlib*
+
+or
+
+*':6:5: Warning: Defining constructors as functions with the same name as the contract is deprecated. Use "constructor(...) { ... }" instead.\n' +*
+
+'    function Inbox(string initialMessage) public {\n' +
+
+'    ^ (Relevant source part starts here and spans across multiple lines).\n'
+
+**These specific warnings can be ignored as they will not cause any issues with the compilation or deployment of the contract we are building.**
+```
+</details>  
+
+## Infura Signup
 
 -   [infura.io](https://infura.io/)
 
-##  **Wallet Provider Setup**
+##  Wallet Provider Setup
 
 -   Wallet Provider Setup
     ```
     npm install @truffle/hdwallet-provider
     ```
-## **Create deploy.js** 
--   `deploy.js`
-    ```
-    
-    ```
+## Create deploy.js 
+<details>
+  <summary>deploy.js</summary>
 
-###  Deployment to Rinkeby 
+```
+const HDWalletProvider = require('@truffle/hdwallet-provider');
+const Web3 = require('web3');
+const compiledFactory = require('./build/CampaignFactory.json');
 
--   Deployment to Rinkeby 
+const { 
+  metamaskSRP, 
+  infuraRinkebyEndpoint, 
+  infuraGorliEndpoint, 
+  infuraSepoliaEndpoint 
+} = require('./secret');
+
+const provider = new HDWalletProvider(
+  metamaskSRP,   // remember to change this to your own phrase!
+  infuraRinkebyEndpoint   // remember to change this to your own endpoint!
+);
+const web3 = new Web3(provider);
+
+const deploy = async () => {
+  const accounts = await web3.eth.getAccounts();
+
+  console.log('Attempting to deploy from account', accounts[0]);
+
+  const result = await new web3.eth.Contract(JSON.parse(compiledFactory.interface))
+    .deploy({ data: compiledFactory.bytecode })
+    .send({ gas: '1000000', from: accounts[0] });
+
+  console.log('Contract deployed to infuraRinkebyEndpoint', result.options.address);
+  provider.engine.stop();
+};
+deploy();
+```
+</details>
+
+**Create secrest folder and .env**
+
+-   install dotenv
+    ```
+    npm install dotenv
+    ```
+`secret/index.js`    
+```
+require('dotenv').config() 
+
+module.exports = {
+  metamaskSRP: process.env.metamaskSRP,
+  infuraRinkebyEndpoint: process.env.infuraRinkebyEndpoint,
+  infuraGorliEndpoint: process.env.infuraGorliEndpoint,
+  infuraSepoliaEndpoint: process.env.infuraSepoliaEndpoint,
+}
+```
+
+`.env`
+```
+metamaskSRP = 'this is your own phrase'
+infuraRinkebyEndpoint = 'this is your Rinkeby endpoint'
+infuraGorliEndpoint = 'this is your Goeril endpoint'
+infuraSepoliaEndpoint = 'this is your Sepolia endpoint'
+```
+
+**Deployment** 
+
+-   Deployment 
     ```
     node deploy.js
     ```
