@@ -16,7 +16,7 @@ export default () => {
 
 ---
 
--   [166-root-routes.zip](https://github.com/web3-nfts/bt-web3/raw/main/Curricula/Ethereum-and-Solidity_The_Complete_Developers_Guide/resources/166-root-routes.zip)
+-   [166-root-routes.zip](https://beatlesm.s3.us-west-1.amazonaws.com/ethereum-and-solidity-complete-developer-guide/166-root-routes.zip)
 
 ---
 

@@ -34,7 +34,7 @@ npm run dev
 
 ---
 
--   [165-basics-routing.zip](https://github.com/web3-nfts/bt-web3/raw/main/Curricula/Ethereum-and-Solidity_The_Complete_Developers_Guide/resources/165-basics-routing.zip)
+-   [165-basics-routing.zip](https://beatlesm.s3.us-west-1.amazonaws.com/ethereum-and-solidity-complete-developer-guide/165-basics-routing.zip)
 
 ---
 
