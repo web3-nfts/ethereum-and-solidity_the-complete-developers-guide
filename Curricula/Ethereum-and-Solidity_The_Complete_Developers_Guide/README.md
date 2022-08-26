@@ -216,7 +216,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Reminder on Updated Remix UI](contents/165_Reminder-on-Updated-Remix-UI.md)
   1.  [Getting a Test Campaign](contents/166_Getting-a-Test-Campaign.md)
   1.  [Fetching Deployed Campaigns](contents/167_Fetching-Deployed-Campaigns.md)
-  1.  Why Next.js, Anyways?
+  1.  [Why Next.js, Anyways?](contents/168_Why-Nextjs-Anyways.md)
   1.  Required Web3 Update for Conditional
   1.  Server vs Client Web3 Instances
   1.  GetInitialProps Function
