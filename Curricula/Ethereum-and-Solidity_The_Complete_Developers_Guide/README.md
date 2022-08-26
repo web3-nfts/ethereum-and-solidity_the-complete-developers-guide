@@ -220,7 +220,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Required Web3 Update for Conditional](contents/169_Required-Web3-Update-for-Conditional.md)
   1.  [Server vs Client Web3 Instances](contents/170_Server-vs-Client-Web3-Instances.md)
   1.  [GetInitialProps Function](contents/171_GetInitialProps-Function.md)
-  1.  Semantic UI React
+  1.  [Semantic UI React](contents/172_Semantic-UI-React.md)
   1.  Card Group Setup
   1.  Rendering Card Groups
   1.  Adding CSS
