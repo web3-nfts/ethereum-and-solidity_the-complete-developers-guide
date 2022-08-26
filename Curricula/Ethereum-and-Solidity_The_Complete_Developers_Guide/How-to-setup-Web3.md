@@ -1,4 +1,4 @@
-# How to setup Web3
+# How to setup Web3 - lottery-react
 
 **Solution: BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default....**
 
