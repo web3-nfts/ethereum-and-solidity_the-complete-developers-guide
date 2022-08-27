@@ -225,7 +225,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Rendering Card Groups](contents/174_Rendering-Card-Groups.md)
   1.  [Adding CSS](contents/175_Adding-CSS.md)
   1.  [Adding a Button](contents/176_Adding-a-Button.md)
-  1.  The Need for a Layout
+  1.  [The Need for a Layout](contents/177_The-Need-for-a-Layout.md)
   1.  Suggestion Regarding a Default Export Warning
   1.  The Layout Component
   1.  Assembling a Header
