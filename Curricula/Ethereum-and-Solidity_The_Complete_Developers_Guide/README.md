@@ -226,7 +226,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Adding CSS](contents/175_Adding-CSS.md)
   1.  [Adding a Button](contents/176_Adding-a-Button.md)
   1.  [The Need for a Layout](contents/177_The-Need-for-a-Layout.md)
-  1.  Suggestion Regarding a Default Export Warning
+  1.  [Suggestion Regarding a Default Export Warning](contents/178_Suggestion-Regarding-a-Default-Export-Warning.md)
   1.  The Layout Component
   1.  Assembling a Header
   1.  Constraining Content Width
