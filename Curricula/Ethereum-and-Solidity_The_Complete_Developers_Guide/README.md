@@ -228,7 +228,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [The Need for a Layout](contents/177_The-Need-for-a-Layout.md)
   1.  [Suggestion Regarding a Default Export Warning](contents/178_Suggestion-Regarding-a-Default-Export-Warning.md)
   1.  [The Layout Component](contents/179_The-Layout-Component.md)
-  1.  Assembling a Header
+  1.  [Assembling a Header](contents/180_Assembling-a-Header.md)
   1.  Constraining Content Width
   1.  Two Column Layout
   1.  Nested Routing

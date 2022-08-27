@@ -1,22 +1,50 @@
-#   How to setup project - Kickstart
+# Kickstart
 
 ##  Initialize Project - Kickstart
 -   `mkdir kickstart`
 -   `cd kickstart`
 -   `npm init`
 
+<details>
+  <summary>Set up folders and files</summary>
+
+![Kickstart - package.json](imgs/Kickstart-files-architecture.png)
+---
+</details> 
+
 ##  Installing Modules
 
-**install ganache-cli mocha solc@0.4.17 fs-extra web3 @truffle/hdwallet-provider and dotenv** 
+**install ganache-cli mocha solc@0.4.17 fs-extra web3 @truffle/hdwallet-provider dotenv** 
 ```
 npm install ganache-cli mocha solc@0.4.17 fs-extra web3 @truffle/hdwallet-provider dotenv
 ```
-<details>
-  <summary>Installing Modules - result</summary>
 
-![Kickstart - package.json](../Ethereum-and-Solidity_The_Complete_Developers_Guide/imgs/144.1_Project-kickstart-setup.png)
----
-</details>  
+<details>
+<summary>package.json</summary>
+
+```
+{
+"name": "kickstart",
+"version": "1.0.0",
+"description": "",
+"main": "index.js",
+"scripts": {
+    "test": "mocha"
+},
+"author": "",
+"license": "ISC",
+"dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "dotenv": "^16.0.1",
+    "fs-extra": "^10.1.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.2.2",
+    "solc": "^0.4.17",
+    "web3": "^1.7.5"
+}
+}
+```    
+</details>
 
 ## Create a Campaign.sol
 <details>
@@ -326,7 +354,7 @@ or
 
 -   [infura.io](https://infura.io/)
 
-**Wallet Provider Setup**
+##  Wallet Provider Setup
 
 -   Wallet Provider Setup
     ```
@@ -370,8 +398,7 @@ deploy();
 ```
 </details>
 
-<details>
-  <summary>Create secrest folder and .env</summary>
+**Create secrest folder and .env**
 
 -   install dotenv
     ```
@@ -396,7 +423,6 @@ infuraRinkebyEndpoint = 'this is your Rinkeby endpoint'
 infuraGorliEndpoint = 'this is your Goeril endpoint'
 infuraSepoliaEndpoint = 'this is your Sepolia endpoint'
 ```
-</details>
 
 **Deployment** 
 
@@ -412,7 +438,7 @@ npm install next react react-dom
 ```
 
 <details>
-  <summary>Create Next architecture</summary>
+  <summary>Next.js architecture</summary>
 
 **under kickstart root directory**
 ```
@@ -452,15 +478,18 @@ export default () => {
 npm run dev
 ```
 
-**add the .next `.gitignore`**
+Change `newcampaign.js` to `index.js` root routes
 ```
-# next.js 
-.next
+import React from 'react';
+
+export default () => {
+    return <h1>This is th campaign list page!!!</h1>
+}
 ```
 </details>
 
 <details>
-  <summary>CampaignFactory Instance (164)</summary>
+  <summary>CampaignFactory Instance</summary>
 
 **web3.js**
 ```
@@ -485,7 +514,7 @@ const instance = new web3.eth.Contract(
 
 export default instance;
 ```
-</details>
+</details>  
 
 <details>
   <summary>Getting a Test Campaign - remix (166)</summary>
@@ -500,7 +529,7 @@ export default instance;
 -   createCampain - 100
 
 
-![166. Getting a Test Campaign](../Ethereum-and-Solidity_The_Complete_Developers_Guide/imgs/166_Getting-a-Test-Campaign.png)
+![166. Getting a Test Campaign](imgs/166_Getting-a-Test-Campaign.png)
 ---
 </details>
 
@@ -548,7 +577,7 @@ if (typeof window !== "undefined" && typeof window.ethereum !== "undefined") {
 export default web3;
 ```
 </details>
-
+ 
 ## Semantic UI React
 
 <details>
@@ -569,7 +598,7 @@ $  npm install semantic-ui-react semantic-ui-css
 **index.js**
 ```
 import React, { Component } from "react";
-import { Card } from "semantic-ui-react";
+import { Card, Button } from "semantic-ui-react";
 import factory from "../ethereum/factory";
 
 class CampaignIndex extends Component {
@@ -578,6 +607,7 @@ class CampaignIndex extends Component {
 
     return { campaigns };
   }
+
   renderCampaigns() {
     const items = this.props.campaigns.map((address) => {
       return {
@@ -588,8 +618,21 @@ class CampaignIndex extends Component {
     });
     return <Card.Group items={items} />;
   }
+
   render() {
-    return <div>{this.renderCampaigns()}</div>;
+    return <div>
+      <link
+        rel="stylesheet"
+        href="//cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.12/semantic.min.css"
+      />    
+      <h3>Open Campaigns</h3>  
+      {this.renderCampaigns()}
+      <Button 
+        content="Create Campain"
+        icon = "add circle"
+        primary
+      />
+      </div>;
   }
 }
 
@@ -600,16 +643,16 @@ export default CampaignIndex;
 <details>
   <summary>The Layout Component</summary>
 
-**Create components/Layout.js**
+**components/Layout.js**
 ```
 import React from "react";
+import Header from "./Header";
 
 const Layout = (props) => {
   return (
     <div>
-      <h1>Im a Header</h1>
+      <Header />
       {props.children}
-      <h1>Im a Footer</h1>
     </div>
   );
 };
@@ -657,5 +700,30 @@ class CampaignIndex extends Component {
 }
 
 export default CampaignIndex;
+```
+</details> 
+
+<details>
+  <summary>Assembling a Header</summary>
+
+**components/Header.js**
+```
+import React from "react";
+import { Menu } from "semantic-ui-react";
+
+const Header = () => {
+  return (
+    <Menu>
+      <Menu.Item>CrowdCoin</Menu.Item>
+
+      <Menu.Menu position="right">
+        <Menu.Item>Campaigns</Menu.Item>
+        <Menu.Item>+</Menu.Item>
+      </Menu.Menu>
+    </Menu>
+  );
+};
+
+export default Header;
 ```
 </details> 
