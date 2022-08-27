@@ -222,7 +222,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [GetInitialProps Function](contents/171_GetInitialProps-Function.md)
   1.  [Semantic UI React](contents/172_Semantic-UI-React.md)
   1.  [Card Group Setup](contents/173_Card-Group-Setup.md)
-  1.  Rendering Card Groups
+  1.  [Rendering Card Groups](contents/174_Rendering-Card-Groups.md)
   1.  Adding CSS
   1.  Adding a Button
   1.  The Need for a Layout
