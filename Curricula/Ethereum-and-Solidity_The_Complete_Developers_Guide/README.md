@@ -234,7 +234,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Nested Routing](contents/183_Nested-Routing.md)
   1.  [Final CSS Fix](contents/184_Final-CSS-Fix.md)
   1.  [Form Creation](contents/185_Form-Creation.md)
-  1.  Input Change Handlers
+  1.  [Input Change Handlers](contents/186_Input-Change-Handlers.md)
   1.  Form Submittal
   1.  Testing Submittal
   1.  Form Error Handling
