@@ -727,3 +727,27 @@ const Header = () => {
 export default Header;
 ```
 </details> 
+
+<details>
+  <summary>Nested Routing</summary>
+
+**Create Nested Routing**
+```
+mkdir pages/campaigns
+cd campaigns
+touch new.js
+```
+
+**pages/campaigns/new.js**
+```
+import React, { Component } from "react";
+
+class CampaignNew extends Component {
+    render(){
+        return <h1>New Campaign!</h1>
+    }
+}
+
+export default CampaignNew;
+```
+</details> 
