@@ -1295,3 +1295,31 @@ class CampaignIndex extends Component {
 export default CampaignIndex;
 ```
 </details>
+
+<details>
+  <summary>Route Mappings</summary>
+
+**pages/campaigns/show.js**
+```
+import React, { Component } from "react";
+
+class CampaignShow extends Component {
+  render() {
+    return <h3>Campaign Show</h3>;
+  }
+}
+
+export default CampaignShow;
+```
+
+**rotues.js**
+```
+const routes = require("next-routes")();
+
+routes
+  .add("/campaigns/new", "/campaigns/new")
+  .add("/campaigns/:address", "/campaigns/show");
+
+module.exports = routes;
+```
+</details>
