@@ -241,7 +241,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Button Spinners](contents/190_Button-Spinners.md)
   1.  [Important Note About Installing next-routes](contents/191_Important-Note-About-Installing-next-routes.md)
   1.  [Routing Issues](contents/192_Routing-Issues.md)
-  1.  Next Routes Setup
+  1.  [Next Routes Setup](contents/193_Next-Routes-Setup.md)
   1.  Automatic Navigation
   1.  Header Navigation
   1.  Routing to Campaigns
