@@ -239,7 +239,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Testing Submittal](contents/188_Testing-Submittal.md)
   1.  [Form Error Handling](contents/189_Form-Error-Handling.md)
   1.  [Button Spinners](contents/190_Button-Spinners.md)
-  1.  Important Note About Installing next-routes
+  1.  [Important Note About Installing next-routes](contents/191_Important-Note-About-Installing-next-routes.md)
   1.  Routing Issues
   1.  Next Routes Setup
   1.  Automatic Navigation
