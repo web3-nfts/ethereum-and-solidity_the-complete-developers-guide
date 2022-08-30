@@ -256,7 +256,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [One Card Per Property](contents/205_One-Card-Per-Property.md)
   1.  [The Contribute Form](contents/206_The-Contribute-Form.md)
   1.  [Grid Layouts](contents/207_Grid-Layouts.md)
-  1.  Form State
+  1.  [Form State](contents/208_Form-State.md)
   1.  Communicating the Campaign Address
   1.  Making a Contribution
   1.  Refreshing Contract Data
