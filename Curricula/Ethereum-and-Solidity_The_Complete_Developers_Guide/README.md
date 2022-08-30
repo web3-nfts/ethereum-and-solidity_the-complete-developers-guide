@@ -258,7 +258,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Grid Layouts](contents/207_Grid-Layouts.md)
   1.  [Form State](contents/208_Form-State.md)
   1.  [Communicating the Campaign Address](contents/209_Communicating-the-Campaign-Address.md)
-  1.  Making a Contribution
+  1.  [Making a Contribution](contents/210_Making-a-Contribution.md)
   1.  Refreshing Contract Data
   1.  Spinners and Error Handlers
   1.  Listing Requests
@@ -359,5 +359,11 @@ Solidity is a programming language for writing Smart Contracts.  Essentially, th
 
 ## Extra
 
--   [NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/?couponCode=ADCE6741CC-BONUS)
 -   [Next.js & React - The Complete Guide (incl. Two Paths!)](https://github.com/ShuhanCode/art-javascript/tree/main/Curricula/nextjs)
+-   [NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/?couponCode=ADCE6741CC-BONUS)
+-   [Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide)
+-   [Machine Learning with Javascript](https://www.udemy.com/course/machine-learning-with-javascript/)
+-   [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
+-   [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure)
+
+
