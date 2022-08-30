@@ -251,7 +251,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Redeploying CampaignFactory](contents/200_Redeploying-CampaignFactory.md)
   1.  [CampaignShow's GetInitialProps](contents/201_CampaignShow's-GetInitialProps.md)
   1.  [Accessing a Campaign](contents/202_Accessing-a-Campaign.md)
-  1.  Summary Translation Layer
+  1.  [Summary Translation Layer](contents/203_Summary-Translation-Layer.md)
   1.  Custom Card Groups
   1.  One Card Per Property
   1.  The Contribute Form
