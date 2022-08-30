@@ -253,7 +253,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Accessing a Campaign](contents/202_Accessing-a-Campaign.md)
   1.  [Summary Translation Layer](contents/203_Summary-Translation-Layer.md)
   1.  [Custom Card Groups](contents/204_Custom-Card-Groups.md)
-  1.  One Card Per Property
+  1.  [One Card Per Property](contents/205_One-Card-Per-Property.md)
   1.  The Contribute Form
   1.  Grid Layouts
   1.  Form State
