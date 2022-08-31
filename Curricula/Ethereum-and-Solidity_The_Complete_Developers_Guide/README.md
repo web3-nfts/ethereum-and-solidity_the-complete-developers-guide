@@ -259,7 +259,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Form State](contents/208_Form-State.md)
   1.  [Communicating the Campaign Address](contents/209_Communicating-the-Campaign-Address.md)
   1.  [Making a Contribution](contents/210_Making-a-Contribution.md)
-  1.  Refreshing Contract Data
+  1.  [Refreshing Contract Data](contents/211_Refreshing-Contract-Data.md)
   1.  Spinners and Error Handlers
   1.  Listing Requests
   1.  Grids vs Columns
