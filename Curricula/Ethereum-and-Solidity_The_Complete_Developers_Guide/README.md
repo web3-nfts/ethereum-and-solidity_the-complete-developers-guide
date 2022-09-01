@@ -266,7 +266,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [More Routing!](contents/215_More-Routing!.md)
   1.  [Request Creation Form](contents/216_Request-Creation-Form.md)
   1.  [Creating a Request](contents/217_Creating-a-Request.md)
-  1.  Form Polish
+  1.  [Form Polish](contents/218_Form-Polish.md)
   1.  Creating a Request
   1.  Requests One by One
   1.  Fancy Javascript
