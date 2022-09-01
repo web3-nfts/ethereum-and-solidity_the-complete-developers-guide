@@ -274,7 +274,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Rendering a Table](contents/223_Rendering-a-Table.md)
   1.  [Request Row Component](contents/224_Request-Row-Component.md)
   1.  [Request Row Content](contents/225_Request-Row-Content.md)
-  1.  [Approvers Count Cell](contents/)
+  1.  [Approvers Count Cell](contents/226_Approvers-Count-Cell.md)
   1.  Approving a Request
   1.  Finalizing Requests
   1.  Testing Finalization
