@@ -2589,3 +2589,9 @@ class RequestNew extends Component {
 export default RequestNew;
 ```
 </details>
+
+<details>
+  <summary>Form Polish - capture</summary>
+
+
+</details>

@@ -270,7 +270,7 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Creating a Request](contents/219_Creating-a-Request.md)
   1.  [Requests One by One](contents/220_Requests-One-by-One.md)
   1.  [Fancy Javascript](contents/221_Fancy-Javascript.md)
-  1.  Small Typo!
+  1.  [Small Typo!](contents/222_Small-Typo!.md)
   1.  Rendering a Table
   1.  Request Row Component
   1.  Request Row Content
