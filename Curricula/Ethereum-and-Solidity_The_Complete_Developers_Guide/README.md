@@ -278,8 +278,8 @@ Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based
   1.  [Approving a Request](contents/227_Approving-a-Request.md)
   1.  [Finalizing Requests](contents/228_Finalizing-Requests.md)
   1.  [Testing Finalization](contents/229_Testing-Finalization.md)
-  1.  Row Status Styling
-  1.  Finishing Requests Index
+  1.  [Row Status Styling](contents/230_Row-Status-Styling.md)
+  1.  [Finishing Requests Index](contents/231_Finishing-Requests-Index.md)
   1.  Wrapup
   1.  Updating Your Campaign Project to Solc v0.8.9
 </details> 
